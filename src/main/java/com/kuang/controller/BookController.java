@@ -23,7 +23,7 @@ import java.util.List;
  * FileName: BookController 
  * Author: hanlong 
  * Date: 2019/12/13 10:12 上午 
- *Description: 
+ *Description: 这个是核心控制器
  */
 @Controller
 @RequestMapping("/book")
