@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
  * FileName: Books 
  * Author: hanlong 
  * Date: 2019/12/12 5:21 下午 
- *Description: 
+ *Description: 实体类
  */
 @Data
 @AllArgsConstructor
